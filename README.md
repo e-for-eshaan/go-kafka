@@ -1,7 +1,7 @@
 # GO_KAFKA app
 This is a simple app built using Golang, Kafka, and PostgreSQL. It exposes several APIs to create and fetch users and products. Utilizes Kafka for retrieval and publishing of data.
 
-![257334691-22337373-582a-4acd-be3a-121108ef19fd](https://github.com/e-for-eshaan/go-kafka/assets/76566992/498004b6-e45f-4444-beef-54afc9cf9c82)
+<img width="865" alt="image" src="https://github.com/user-attachments/assets/264e768d-7a8f-47c2-9c5d-6fcb248ea3d4" />
 
 *Fig: Workflow of the APP*
 
